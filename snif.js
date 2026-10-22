@@ -1,8 +1,8 @@
 /*************************************
 
-应用名称：Duolingo
-脚本功能：kalp-"unlimitedHeartsAvailable\":false},
-下载地址：duo.com
+应用名称：snif
+脚本功能：m3u8
+下载地址：yıldız
 更新日期：2026-05-14
 脚本作者：@yazar
 使用声明：⚠️仅供参考，🈲转载与售卖！
@@ -15,7 +15,7 @@
 
 
 [mitm]
-hostname = ios-api-cf.duolingo.com, duolingo.com
+hostname = *
 
 *************************************/
 /*
